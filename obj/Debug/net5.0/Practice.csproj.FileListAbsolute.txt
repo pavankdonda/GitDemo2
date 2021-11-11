@@ -1,0 +1,16 @@
+C:\Users\PAVAN KUMAR DONDA\Practice\bin\Debug\net5.0\Practice.exe
+C:\Users\PAVAN KUMAR DONDA\Practice\bin\Debug\net5.0\Practice.deps.json
+C:\Users\PAVAN KUMAR DONDA\Practice\bin\Debug\net5.0\Practice.runtimeconfig.json
+C:\Users\PAVAN KUMAR DONDA\Practice\bin\Debug\net5.0\Practice.runtimeconfig.dev.json
+C:\Users\PAVAN KUMAR DONDA\Practice\bin\Debug\net5.0\Practice.dll
+C:\Users\PAVAN KUMAR DONDA\Practice\bin\Debug\net5.0\ref\Practice.dll
+C:\Users\PAVAN KUMAR DONDA\Practice\bin\Debug\net5.0\Practice.pdb
+C:\Users\PAVAN KUMAR DONDA\Practice\obj\Debug\net5.0\Practice.csproj.AssemblyReference.cache
+C:\Users\PAVAN KUMAR DONDA\Practice\obj\Debug\net5.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAVAN KUMAR DONDA\Practice\obj\Debug\net5.0\Practice.AssemblyInfoInputs.cache
+C:\Users\PAVAN KUMAR DONDA\Practice\obj\Debug\net5.0\Practice.AssemblyInfo.cs
+C:\Users\PAVAN KUMAR DONDA\Practice\obj\Debug\net5.0\Practice.csproj.CoreCompileInputs.cache
+C:\Users\PAVAN KUMAR DONDA\Practice\obj\Debug\net5.0\Practice.dll
+C:\Users\PAVAN KUMAR DONDA\Practice\obj\Debug\net5.0\ref\Practice.dll
+C:\Users\PAVAN KUMAR DONDA\Practice\obj\Debug\net5.0\Practice.pdb
+C:\Users\PAVAN KUMAR DONDA\Practice\obj\Debug\net5.0\Practice.genruntimeconfig.cache
